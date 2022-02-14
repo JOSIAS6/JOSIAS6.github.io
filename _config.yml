@@ -1,5 +1,5 @@
 # Site settings
-title: My blog
+title: My Blog
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: '://im-joss.live/jekyll-uno'
 baseurl: ''
@@ -8,12 +8,12 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Josias De la cruz'
+  email: josias.rocha2002@gmail.com
+  twitter_username: 
+  facebook_username: Josias De la cruz 
+  github_username:  JOSIAS6
+  linkedin_username:  
 
 defaults:
   -
